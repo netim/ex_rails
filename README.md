@@ -11,3 +11,4 @@ A aplicação é executada a partir do comando `rails server` e acessando a URL 
 * Micropost tem campos conteúdo e id de usuário.
 * Cada usuário pode ter vários microposts.
 * Um micropost deve ter um usuário e limite de conteúdo de 255 caracteres. 
+* Microposts são acessados pela página [http://localhost:3000/microposts](http://localhost:3000/microposts).
