@@ -11,7 +11,7 @@ Execute o servidor do rails a partir do comando `rails server` e acesse a URL in
 * Micropost tem campos conteúdo e id de usuário, esse último obrigatório.
 * Cada usuário pode ter vários microposts.
 * Cada micropost tem limite de conteúdo de 255 caracteres. 
-* Microposts são acessados pela página [http://localhost:3000/microposts](http://localhost:3000/microposts).
+* Microposts são acessados pela página `/microposts`, i. e. [http://localhost:3000/microposts](http://localhost:3000/microposts).
 
 # ENGLISH
 
@@ -26,3 +26,4 @@ Start the rails server with `rails server` command and access the provided URL, 
 * Micropost have content and user id fields, the latter is required.
 * Each user can have many microposts.
 * Each micropost has a 255-character content limit.
+* Micropost are accessed by the page `/microposts`, i. e. [http://localhost:3000/microposts](http://localhost:3000/microposts)
