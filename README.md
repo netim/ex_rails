@@ -7,8 +7,8 @@ Execute o servidor do rails a partir do comando `rails server` e acesse a URL in
 
 # Informações
 * Permite cadastrar usuários e microposts.
-* Usuário tem campos nome e email, ambos obrigatórios.
-* Micropost tem campos conteúdo e id de usuário, esse último obrigatório.
+* Usuários tem campos nome e email, ambos obrigatórios.
+* Microposts tem campos conteúdo e id de usuário, esse último obrigatório.
 * Cada usuário pode ter vários microposts.
 * Cada micropost tem limite de conteúdo de 255 caracteres. 
 * Microposts são acessados pela página `/microposts`, i. e. [http://localhost:3000/microposts](http://localhost:3000/microposts).
