@@ -22,8 +22,8 @@ Start the rails server with `rails server` command and access the provided URL, 
 
 # Info
 * Allows creation of users and microposts.
-* User have name and email fields, both required.
-* Micropost have content and user id fields, the latter is required.
+* Users have name and email fields, both required.
+* Microposts have content and user id fields, the latter is required.
 * Each user can have many microposts.
 * Each micropost has a 255-character content limit.
 * Micropost are accessed by the page `/microposts`, i. e. [http://localhost:3000/microposts](http://localhost:3000/microposts)
